@@ -10,7 +10,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Facial expression weighting values. The information that we request will be retained by us and used as described in this privacy policy.
+Facial expression weighting values: We use TrueDepth API technologies, ARKit, to capture the movement of the actor’s facial expression and therefore drive the virtual human with the similar moves. None of the information collected by the TrueDepth API ever leaves the user’s system. We do not share information with third parties, do not store or process in any other way the data which we accessed and used via TrueDepth API. 
+
+We do not collect any other personally identifiable information other  the above mentioned facial expression weighting values.
 
 **Log Data**
 
